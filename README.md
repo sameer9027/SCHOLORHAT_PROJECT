@@ -14,5 +14,4 @@ What it provides
 - Product and Category models with EF Core relationships.
 - Ready-to-use migrations and DI setup for extension.
 
-License
-- Add a LICENSE file as needed.
+
